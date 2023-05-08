@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_save"
+        android:icon="@drawable/ic_save"
+        android:title="@string/save"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_debug"
+        android:icon="@drawable/ic_debug"
+        android:title="@string/debug"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_debug_search"
+                android:title="@string/debug_search" />
+            <item
+                android:id="@+id/action_debug_info"
+                android:title="@string/debug_info" />
+            <item
+                android:id="@+id/action_debug_toc"
+                android:title="@string/debug_toc" />
+            <item
+                android:id="@+id/action_debug_content"
+                android:title="@string/debug_content" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_login"
+        android:title="@string/text_login"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_clear_cookie"
+        android:title="@string/clear_cookie"
+        app:showAsAction="never" />
+
+</menu>

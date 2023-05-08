@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Reader-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Reader-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DialogX/Reader-master.DialogX.iml" filepath="$PROJECT_DIR$/.idea/modules/DialogX/Reader-master.DialogX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DialogX/Reader-master.DialogX.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DialogX/Reader-master.DialogX.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DialogX/Reader-master.DialogX.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DialogX/Reader-master.DialogX.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DialogX/Reader-master.DialogX.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DialogX/Reader-master.DialogX.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Reader-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Reader-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Reader-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Reader-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Reader-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Reader-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Reader-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Reader-master.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
